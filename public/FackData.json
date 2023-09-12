@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Post 1",
+    "time": 12,
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/KVh2HMZ/girl2.jpg",
+    "cover_img": "https://i.ibb.co/3vjK3Tr/2.png",
+    "date": "2023-09-12",
+    "hashtags": ["#sample", "#json", "#data"],
+    "identity": "user123"
+  },
+  {
+    "id": 2,
+    "name": "Sample Post 2",
+    "time": 43,
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/z8W8qN4/boy2.jpg",
+    "cover_img": "https://i.ibb.co/qmqg9G4/1.jpg",
+    "date": "2023-09-13",
+    "hashtags": ["#example", "#data", "#format"],
+    "identity": "user456"
+  },
+  {
+    "id": 23,
+    "name": "Sample Post 3",
+    "time": 9,
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/z8W8qN4/boy2.jpg",
+    "cover_img": "https://i.ibb.co/3vjK3Tr/2.png",
+    "date": "2023-09-14",
+    "hashtags": ["#json", "#sample", "#test"],
+    "identity": "user789"
+  },
+  {
+    "id": 4,
+    "name": "Sample Post 4",
+    "time": 16,
+    "author": "Bob Wilson",
+    "author_img": "https://i.ibb.co/BZmKPz1/girl1.jpg",
+    "cover_img": "https://i.ibb.co/N6nBH4V/3.png",
+    "date": "2023-09-15",
+    "hashtags": ["#data", "#example", "#post"],
+    "identity": "user101"
+  },
+  {
+    "id": 5,
+    "name": "Sample Post 5",
+    "time": 30,
+    "author": "Eve Davis",
+    "author_img": "https://i.ibb.co/KVh2HMZ/girl2.jpg",
+    "cover_img": "https://i.ibb.co/tKPK8Fy/4.jpg",
+    "date": "2023-09-16",
+    "hashtags": ["#json", "#format", "#demo"],
+    "identity": "user202"
+  }
+]
